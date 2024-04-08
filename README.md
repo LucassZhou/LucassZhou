@@ -12,7 +12,7 @@
 - 💞️ Looking to collaborate:
 - I'm on the lookout for opportunities to collaborate on projects centered around data science, especially those focused on developing robust machine learning models.
 - If you're passionate about making data-driven decisions and crafting intelligent solutions, let's connect and create something incredible together!
-- 
+  
 - 📫 Reach out to me:
 - Interested in collaborating or just want to say hi? Please feel free to reach out to me. Let's explore the endless possibilities that data and AI have to offer!
   
